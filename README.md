@@ -166,4 +166,4 @@ si noti che il parametro **adagrad** è opzionale e la sua presenza indica che l
 * È inoltre richiesta per ogni soluzione, una versione che faccia uso delle istruzioni **OpenMP**. I nomi dei relativi file dovranno contenere il suffisso “\_omp” (es. regression32 omp.c).
                                                  
 ---
-                                                 Il progetto è stato realizzato con David Azzato, Simone Bria e Cristian Cosentino
+Il progetto è stato realizzato con David Azzato, Simone Bria e Cristian Cosentino
