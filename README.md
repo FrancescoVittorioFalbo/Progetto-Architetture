@@ -1,5 +1,9 @@
 # Progetto-Architetture
 Progetto di gruppo per il corso di Architetture e Programmazione dei Sistemi di Elaborazione
+
+---
+
+
 **Caso specifico**
 “Polynomial Regression and Stochastic Gradient Descent”
 in linguaggio assembly x86-32+SSE, x86-64+AVX e openMP
