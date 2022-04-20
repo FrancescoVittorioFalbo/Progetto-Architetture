@@ -164,3 +164,6 @@ si noti che il parametro **adagrad** è opzionale e la sua presenza indica che l
 * Sono richieste due soluzioni software, la prima per l’architettura x86-32 SSE e la seconda per l’architettura x86-64+AVX.
 
 * È inoltre richiesta per ogni soluzione, una versione che faccia uso delle istruzioni **OpenMP**. I nomi dei relativi file dovranno contenere il suffisso “\_omp” (es. regression32 omp.c).
+                                                 
+---
+                                                 Il progetto è stato realizzato con David Azzato, Simone Bria e Cristian Cosentino
